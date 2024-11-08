@@ -2,244 +2,243 @@
     "events": [
         {
             "id": "1",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "First Written Laws Carved in Stone",
+            "img1": "https://upload.wikimedia.org/wikipedia/commons/9/98/F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg",
+            "img2": "https://assets.editorial.aetnd.com/uploads/2022/09/code-hammurabi-gettyimages-91425803.jpg",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Mesopotamia (Dissolved, 539 BC)",
+                "century": "20th century BC",
+                "category": "Legal, Political",
+                "description": "Picture this: a king gets so tired of people making up rules that he decides to carve them ALL into a giant piece of rock! That's exactly what happened with the Code of Ur-Nammu. It's like when I tell my class to write the rules on the board, but WAY more permanent. This was humanity's first written legal code, and boy, did they take it seriously! No more 'but I didn't know that was against the rules' excuses after this one, folks!"
             }
         },
         {
             "id": "2",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "First Bronze Weapons Revolutionize Warfare",
+            "img1": "https://www.researchgate.net/publication/362454485/figure/fig2/AS:11431281093898904@1667310841458/a-b-Early-Bronze-Age-spears-from-Torsted-Denmark-NM-K-B1511819-c-Late-Bronze-Age.jpg",
+            "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqo_oZ5lLVy2EXQwyKCboj1eAtgC6QzriiKA&s",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Egypt",
+                "century": "20th century BC",
+                "category": "Military, Technology",
+                "description": "Imagine bringing a stick to a sword fight - that's basically what happened when someone figured out how to make bronze weapons! Our clever Egyptian friends mixed copper and tin together and suddenly everyone was like 'Oh wow, this is WAY better than hitting each other with rocks!' It's like upgrading from safety scissors to the real deal, except way more stabby. This discovery changed warfare forever, though I'm not sure that's something to celebrate, kids!"
             }
         },
         {
             "id": "3",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "Pyramids of Giza Construction Begins",
+            "img1": "https://www.ancient-origins.net/sites/default/files/field/image/construction-of-the-Egyptian-pyramids.jpg",
+            "img2": "https://www.ancient-origins.net/sites/default/files/styles/article_image/public/field/image/Egyptian-Workers-Who-Built.jpg?itok=HsYt3oT4",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Egypt",
+                "century": "19th century BC",
+                "category": "Architecture, Religion",
+                "description": "Talk about a group project gone wild! The Egyptians decided to build the ultimate forever home for their pharaohs, and boy, did they go big! Without calculators, computers, or even wheels, these amazing engineers created perfect triangles that would make your math teacher cry tears of joy. And here's the kicker - they're still standing! That's what we call quality construction, boys and girls. Your LEGO towers could never!"
             }
         },
         {
             "id": "4",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "First Mathematical Word Problems",
+            "img1": "https://images.slideplayer.com/15/4739428/slides/slide_3.jpg",
+            "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLhEyeZcz4ShW-gYgvYSNebq5q9c0DipnGHocsmO8M76ifCkCximLrreGr8dCjAvvS7L6QaDzA21lxTigIcLbCm5MhOc2dGD7Mu2CbRU5q6rgab6crRf1SvaQKNh6yb8L0ol02zKzxq8bz/s400/Example1.png",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Babylonia (Dissolved, 539 BC)",
+                "century": "19th century BC",
+                "category": "Mathematics, Education",
+                "description": "That's right, kids - we can blame the Babylonians for those pesky word problems! They were the first to write down mathematical puzzles like 'If Hammurabi has 5 chariots and gives 2 away...' Some things never change, do they? These clay tablets were basically the world's first math textbooks, complete with answers in the back (just kidding about that last part)!"
             }
         },
         {
             "id": "5",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "Hammurabi's Code Established",
+            "img1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG/1200px-P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+            "img2": "https://assets.editorial.aetnd.com/uploads/2013/12/8-things-you-may-not-know-about-hammurabis-codes-featured-photo.jpg",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Babylonia (Dissolved, 539 BC)",
+                "century": "18th century BC",
+                "category": "Legal, Political, Social",
+                "description": "Ever heard of 'an eye for an eye'? Well, meet the guy who wrote it down first! Hammurabi was like that strict principal who writes ALL the school rules in CAPITAL LETTERS, except he carved them into a giant stone pillar. His famous code had 282 laws - that's more rules than in your whole school handbook! Some were pretty weird too, like 'If you build a house badly and it falls on someone, you get squished by a house too.' Talk about harsh detention policies!"
             }
         },
         {
             "id": "6",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "Invention of the Chariot",
+            "img1": "https://static.wikia.nocookie.net/world-history-median/images/1/19/The_Wheel.jpg/revision/latest?cb=20211230183944",
+            "img2": "https://citizendium.org/wiki/images/1/16/Egyptian-Chariot.png",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Mesopotamia (Dissolved, 539 BC)",
+                "century": "18th century BC",
+                "category": "Military, Technology, Transportation",
+                "description": "Ladies and gentlemen, start your horses! The invention of the chariot was like getting the world's first sports car. Suddenly, warriors could zoom around battlefields like prehistoric race car drivers. It was basically the ancient equivalent of adding wheels to your backpack - everything changed! And yes, before you ask, this was WAY better than walking everywhere. Though I bet the horses weren't too thrilled about the whole idea!"
             }
         },
         {
             "id": "7",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "First Alphabet Created",
+            "img1": "https://miro.medium.com/v2/resize:fit:648/1*7Smf3fSV9jfVG9F6CTO2JQ.jpeg",
+            "img2": "https://doyoukno.wordpress.com/wp-content/uploads/2008/10/greek_alphabet.gif",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Egypt",
+                "century": "17th century BC",
+                "category": "Language, Communication, Education",
+                "description": "Before this, writing was like playing pictionary ALL THE TIME! Then some clever folks in Egypt came up with the brilliant idea of using simple symbols for sounds instead of drawing tiny pictures of everything. It's like they invented the ultimate cheat code for writing! No more drawing an entire eagle just to say you're going to lunch. Though I bet some people complained that 'kids these days are getting lazy with their writing.'"
             }
         },
         {
             "id": "8",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "Minoan Palace of Knossos Built",
+            "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvfL0PNrrM-1nxEve-Mwon5dJSc5GAB7cxPQ&s",
+            "img2": "https://knossos-palace.gr/wp-content/uploads/2023/08/Minoan-Legend-5.jpg",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Greece (Crete)",
+                "century": "17th century BC",
+                "category": "Architecture, Culture",
+                "description": "Imagine the biggest, fanciest maze-house ever built - that's the Palace of Knossos! The Minoans were like the interior designers of the ancient world, creating this massive palace with more rooms than your local shopping mall. Legend says it was so complicated they needed string to find their way out! Talk about an extreme home makeover. And you thought finding your way around a new school was hard!"
             }
         },
         {
             "id": "9",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "Chinese Calendar Development",
+            "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMXldtFh0lZjH8mMcYNLW0vTmcSbjLu6HRnA&s",
+            "img2": "https://studycli.org/wp-content/uploads/2021/06/1-1.jpg.webp",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "China",
+                "century": "16th century BC",
+                "category": "Science, Astronomy, Culture",
+                "description": "The Chinese looked at the moon and stars and said, 'Hey, let's make a super-accurate calendar!' This wasn't your ordinary wall calendar with cute cat pictures - it was a sophisticated system based on both lunar and solar movements. They even figured out when eclipses would happen! It's like they had a time-traveling weather app, except carved in bone. And you thought calculating leap years was tricky!"
             }
         },
         {
             "id": "10",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "First Glass Manufacturing",
+            "img1": "https://epiphanyglass.com/wp-content/uploads/2024/01/The-Doge-of-Venice-visiting-the-glass-factories-of-Murano.webp",
+            "img2": "https://www.bahwanmge.com/wp-content/uploads/2023/01/Glass-blowing-ancient-glass-making.jpg",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Egypt",
+                "century": "16th century BC",
+                "category": "Technology, Crafts, Industry",
+                "description": "Someone accidentally melted sand and - POOF! - glass was invented! It's like when you discover something amazing by mistake, like when chocolate chip cookies were invented. The Egyptians figured out how to make this magical transparent material and suddenly everyone wanted fancy glass beads and vessels. It was the ancient world's version of getting the newest iPhone - everybody had to have it!"
             }
         },
         {
             "id": "11",
-            "title": "",
+            "title": "Olmec Civilization Emerges",
             "img1": 0,
             "img2": 0,
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Mexico",
+                "century": "15th century BC",
+                "category": "Culture, Art, Religion",
+                "description": "Meet the Olmecs, the original trend-setters of ancient America! These folks were famous for carving absolutely MASSIVE stone heads - we're talking bigger than your whole classroom! They were like the cool kids who started all the fashion trends, except their trends included things like complex calendars, writing systems, and chocolate (yes, they were among the first to process cacao!). Think of them as the inventors of the original chocolate bar - now that's what I call a lasting contribution to civilization!"
             }
         },
         {
             "id": "12",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "Trojan War Begins",
+            "img1": "https://www.thoughtco.com/thmb/l9dMc11wWbYwWGD4CrOxkZxK7ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rape-of-helen-tapestry-57c578cb3df78cc16e7ea758.jpg",
+            "img2": "https://cdn.britannica.com/72/133972-050-9F4E1129/Procession-of-the-Trojan-Horse-canvas-Troy-1760.jpg",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Turkey (Ancient Troy)",
+                "century": "15th century BC",
+                "category": "Military, Literature, Culture",
+                "description": "All this drama over one person running away! The Trojan War kicked off like the world's biggest episode of teenage rebellion, complete with a giant wooden horse (spoiler alert: it wasn't really a present!). It's like hiding your little brother in a cardboard box to sneak him into your room - except with an entire army! This war gave us the phrase 'Trojan horse,' which now means something sneaky, and honestly, what's sneakier than hiding an army in a horse?"
             }
         },
         {
             "id": "13",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "Iron Age Begins",
+            "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEjlXvp4OljD3_WxT8LeWq3YxjCfJI2K0SjQ&s",
+            "img2": "https://www.iwantthatdoor.com/wp-content/uploads/2021/06/iron-age-smith-1920x1273.jpg",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Anatolia (Modern Turkey)",
+                "century": "14th century BC",
+                "category": "Technology, Industry, Military",
+                "description": "Move over, bronze - there's a new metal in town! The discovery of iron working was like upgrading from plastic toys to metal ones. Suddenly, everyone wanted iron tools and weapons because they were stronger and cheaper than bronze. It's like when everyone at school suddenly HAD to have the new trendy thing, except instead of fidget spinners, it was iron swords. Progress!"
             }
         },
         {
             "id": "14",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "First Astronomical Calendar",
+            "img1": "https://www.thoughtco.com/thmb/AXd4GAkMCCbkne5LoFMuD38mXXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-463916013-5895b9695f9b5874eee3fbb0-5c57774846e0fb0001c08a62.jpg",
+            "img2": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Digaonalsternuhr.jpg",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Egypt",
+                "century": "14th century BC",
+                "category": "Science, Astronomy, Mathematics",
+                "description": "The Egyptians got tired of guessing when the Nile would flood, so they created the world's first star-based calendar! It's like they invented the world's first weather app, except instead of checking their phones, they had to watch the stars. They divided the year into 365 days and even figured out the seasons. And you thought memorizing the months of the year was hard!"
             }
         },
         {
             "id": "15",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "Oracle Bones in China",
+            "img1": "data:image/jpeg;base64,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",
+            "img2": "https://www.globaltimes.cn/Portals/0/attachment/2019/2019-10-23/2cf71a39-d851-4d92-9666-a81dc726275b.jpeg",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "China",
+                "century": "13th century BC",
+                "category": "Religion, Writing, Culture",
+                "description": "Imagine asking your Magic 8 Ball questions by writing on bones! That's basically what the ancient Chinese were doing with oracle bones. They'd write questions on turtle shells or animal bones, heat them until they cracked, and then interpret the cracks as answers from their ancestors. It's like the world's first Q&A session, except way more dramatic. And you thought asking your parents for permission was complicated!"
             }
         },
         {
             "id": "16",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "Phoenician Alphabet Spreads",
+            "img1": "https://www.brown.edu/Departments/Joukowsky_Institute/courses/greekpast/files/3063257.jpg",
+            "img2": "https://www.worldhistory.org/uploads/images/173.png",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Lebanon (Ancient Phoenicia)",
+                "century": "13th century BC",
+                "category": "Language, Communication, Trade",
+                "description": "The Phoenicians were like the ancient world's social media influencers - they took the alphabet viral! They simplified writing so much that suddenly everyone wanted to learn it. It's like they invented the emoji of ancient times, except instead of little faces, they used simple letters that actually made sense. Their alphabet became so popular it eventually led to the one we're using right now. Talk about a trending topic that never went out of style!"
             }
         },
         {
             "id": "17",
-            "title": "",
-            "img1": 0,
-            "img2": 0,
+            "title": "Sea Peoples Invasion",
+            "img1": "https://www.worldhistory.org/uploads/images/15310.png",
+            "img2": "https://weaponsandwarfare.com/wp-content/uploads/2024/01/1706488292_54_Invasion-of-the-Sea-Peoples.jpg",
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Mediterranean Region",
+                "century": "12th century BC",
+                "category": "Military, Migration, Politics",
+                "description": "Imagine a group of mysterious raiders so scary that nobody even knew their real names! The Sea Peoples were like the ancient world's pirates, except way more dramatic. They showed up out of nowhere and caused so much chaos that they actually collapsed several civilizations. It's like when the substitute teacher loses control of the class, except on a massive, civilization-ending scale!"
             }
         },
         {
             "id": "18",
-            "title": "",
-            "img1": 0,
+            "title": "Zhou Dynasty Establishes Mandate of Heaven",
+            "img1": "https://www.chaz.org/Arch/China/Mandate/Jade_Emperor.png",
             "img2": 0,
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "China",
+                "century": "12th century BC",
+                "category": "Politics, Religion, Philosophy",
+                "description": "The Zhou Dynasty came up with the cleverest political excuse ever - they said Heaven itself chose them to rule! It's like telling your siblings 'Mom said I'm in charge' except they convinced an entire civilization! The Mandate of Heaven became the ultimate 'because I said so' of ancient China, stating that good rulers kept heaven's approval while bad ones lost it. Very convenient when you think about it!"
             }
         },
         {
             "id": "19",
-            "title": "",
+            "title": "First Olympic Games",
             "img1": 0,
             "img2": 0,
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Greece",
+                "century": "8th century BC",
+                "category": "Sports, Religion, Culture",
+                "description": "The Greeks decided to solve their arguments by having a massive sports day! The first Olympics were like a school field day, except athletes competed in the nude (scandalous!), and instead of getting gold medals, winners got olive leaf crowns. They even stopped wars to have these games - imagine canceling a fight because it's time for track and field! And you thought your PE class was intense!"
             }
         },
         {
             "id": "20",
-            "title": "",
+            "title": "First Coins Minted",
             "img1": 0,
             "img2": 0,
             "data": {
-                "country": "",
-                "century": "",
-                "category": "",
-                "description": ""
+                "country": "Turkey (Kingdom of Lydia)",
+                "century": "7th century BC",
+                "category": "Economics, Technology, Trade",
+                "description": "The Lydians got tired of lugging around heavy trade goods and invented coins! It's like they created the world's first gift cards, except these were made of electrum (a mix of gold and silver). Finally, people could go shopping without bringing a cow to trade! Can you imagine trying to fit a sheep in your wallet? This brilliant invention made commerce way easier, though I bet some people still said, 'Back in my day, we traded REAL goods!'"
             }
         }
-    ],
-    "other": []
+    ]
 }
