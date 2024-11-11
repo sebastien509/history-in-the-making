@@ -1,9 +1,13 @@
 import React from 'react'
+import EventList from './EventList'
+import SearchForm from './SearchForm'
 
 function Search() {
+
   return (
     <div>
-        <h1>Search</h1>
+        <SearchForm/>
+        <EventList/>
 
     </div>
   )
