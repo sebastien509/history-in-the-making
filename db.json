@@ -123,8 +123,8 @@
     {
       "id": "11",
       "title": "Olmec Civilization Emerges",
-      "img1": 0,
-      "img2": 0,
+      "img1": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Olmec_Heartland_Overview_4.svg",
+      "img2": "https://www.thoughtco.com/thmb/gL0O2SQR-jBujgxsvZcoqbZ52_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Olmec_1-58d925da3df78c5162d1ba64.jpg",
       "data": {
         "country": "Mexico",
         "century": "15th century BC",
@@ -219,8 +219,8 @@
     {
       "id": "19",
       "title": "First Olympic Games",
-      "img1": 0,
-      "img2": 0,
+      "img1": "https://assets.editorial.aetnd.com/uploads/2012/08/firstolympicsmyths.jpg",
+      "img2": "https://cdn.sanity.io/images/cctd4ker/production/37b44179d8be39aba65b60ed764becf6dfc7bf50-1080x1080.jpg?w=3840&q=75&fit=clip&auto=format",
       "data": {
         "country": "Greece",
         "century": "8th century BC",
@@ -231,8 +231,8 @@
     {
       "id": "20",
       "title": "First Coins Minted",
-      "img1": 0,
-      "img2": 0,
+      "img1": "https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/2020-04/mortonandeden-lot_4_1.jpg?itok=naXxc8FG",
+      "img2": "https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/2020-04/mortonandeden-lot_5_1.jpg?itok=WD9dfN84",
       "data": {
         "country": "Turkey (Kingdom of Lydia)",
         "century": "7th century BC",
@@ -241,94 +241,352 @@
       }
     },
     {
-      "id": "2169",
-      "title": "NEW EVENT TEST",
-      "img1": "https://www.chaz.org/Arch/China/Mandate/Jade_Emperor.png",
-      "img2": "",
-      "century": "12th century BC",
-      "country": "China",
-      "description": "The Zhou Dynasty came up with the cleverest political excuse ever - they said Heaven itself chose them to rule! It's like telling your siblings 'Mom said I'm in charge' except they convinced an entire civilization! The Mandate of Heaven became the ultimate 'because I said so' of ancient China, stating that good rulers kept heaven's approval while bad ones lost it. Very convenient when you think about it!"
+      "id": "21",
+      "title": "Buddha Achieves Enlightenment",
+      "img1": "https://d36tnp772eyphs.cloudfront.net/blogs/1/2018/09/Giant-Buddha-Statue-in-Hong-Kong-China.jpg",
+      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRr4-AwE4w-DKKiwajwtV-rntZlDAhXfRxVw&s",
+      "data": {
+          "country": "India",
+          "century": "6th century BC",
+          "category": "Religion, Philosophy, Culture",
+          "description": "So there's this prince who decides to sit under a tree until he figures out the meaning of life - and it actually works! Siddhartha Gautama's big 'aha!' moment came after 49 days of meditation (that's longer than your entire summer vacation!). He became the Buddha and started teaching others about finding inner peace, which is way more useful than most things princes usually do. It's like having the world's most successful time-out!"
+      }
+  },
+  {
+      "id": "22",
+      "title": "Building of the Great Wall Begins",
+      "img1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/640px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+      "img2": "https://www.china-mike.com/wp-content/uploads/2019/01/Great-Wall-Construction.jpg",
+      "data": {
+          "country": "China",
+          "century": "5th century BC",
+          "category": "Architecture, Military, Engineering",
+          "description": "Imagine building a wall so big you can see it from space! The Chinese were like, 'You know what would keep out invaders? The biggest wall EVER!' It's like when you build a pillow fort, but it's thousands of miles long and took generations to complete. Talk about a home improvement project gone wild! And you thought your parents' weekend DIY projects took forever!"
+      }
+  },
+  {
+      "id": "23",
+      "title": "Parthenon Construction Completed",
+      "img1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/800px-The_Parthenon_in_Athens.jpg",
+      "img2": "https://drylayout.com/assets/images/articles/general/parthenon-min.jpg",
+      "data": {
+          "country": "Greece",
+          "century": "5th century BC",
+          "category": "Architecture, Art, Religion",
+          "description": "The Greeks built the ultimate temple - with PERFECT math! The Parthenon wasn't just big, it was designed with such precision that it still makes architects' jaws drop today. They even built slight curves into the columns to trick your eyes into seeing them as straight - it's like Instagram filters, but in architecture! And they did it all without computers or calculators. Show this to your math teacher next time they say you can't use a calculator!"
+      }
+  },
+  {
+      "id": "24",
+      "title": "Alexander the Great Conquers Persia",
+      "img1": "https://external-preview.redd.it/0-vHDcVvjNjzUywR94uyFwcOZbUwdHRwY2uVdkepDXA.jpg?width=1080&crop=smart&auto=webp&s=2d786129118fa9da817e40408fce3ee831b93c8c",
+      "img2": "https://persianempires.com/images/Alexander-the-Great.jpg",
+      "data": {
+          "country": "Persian Empire (Dissolved, 330 BC)",
+          "century": "4th century BC",
+          "category": "Military, Politics, Culture",
+          "description": "Meet Alex, the original overachiever! By age 32, he had conquered most of the known world - talk about an impressive resume! Alexander the Great was like that one kid who's good at EVERYTHING, except instead of winning school competitions, he was winning entire continents. He even named multiple cities after himself (Alexandria) - now that's what I call an ego! But hey, if you conquered the world's biggest empire by your early 30s, maybe you'd be a bit full of yourself too!"
+      }
+  },
+  {
+      "id": "25",
+      "title": "Great Library of Alexandria Built",
+      "img1": "https://www.historicmysteries.com/wp-content/uploads/2020/12/Library_of_alexandria.jpg",
+      "img2": "https://www.faena.com/sites/default/files/styles/hero_mobile/public/2020-06/the-library-of-alexandria-and-its-legacy.jpg?itok=MuBFQO4-",
+      "data": {
+          "country": "Egypt",
+          "century": "3rd century BC",
+          "category": "Education, Science, Literature",
+          "description": "Imagine the biggest library ever - no, bigger than that! The Great Library of Alexandria was like having all of Google stored in one building, except everything was written on scrolls. It was the ancient world's attempt to collect ALL human knowledge in one place. Sadly, it eventually burned down (this is why we always have library fire drills, kids!). It's like losing your homework, but it's ALL the homework from ALL of history!"
+      }
+  },
+  {
+      "id": "26",
+      "title": "Han Dynasty Invents Paper",
+      "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxNW5GOKA09XosjxY4tob_jmG2DtnVVsqyCA&s",
+      "img2": "https://hunterhandynasty.weebly.com/uploads/4/2/4/6/42468337/3335554.png?469",
+      "data": {
+          "country": "China",
+          "century": "2nd century BC",
+          "category": "Technology, Communication, Industry",
+          "description": "Before this, people had to write on everything from rocks to animal skins - ew! The Han Dynasty figured out how to make paper from tree bark and old fishing nets, and suddenly everyone was like 'Where has this been all my life?' It's like when someone invented backpacks with wheels - suddenly the old way seems ridiculous! Though I bet some grumpy folks still said, 'Back in my day, we carved our homework into stone, and we liked it!'"
+      }
+  },
+  {
+      "id": "27",
+      "title": "Roman Republic Becomes Empire",
+      "img1": "https://i0.wp.com/alexandermeddings.com/wp-content/uploads/2020/06/The-Death-of-Caesar-Jean-Leon-Gerome-How-did-the-Roman-Republic-become-an-Empire-Cropped.jpg?fit=1920%2C1080&amp;ssl=1",
+      "img2": "https://i0.wp.com/alexandermeddings.com/wp-content/uploads/2020/07/1270px-Vincenzo_Camuccini_-_La_morte_di_Cesare-1.jpg?resize=1270%2C720&ssl=1",
+      "data": {
+          "country": "Italy (Roman Empire)",
+          "century": "1st century BC",
+          "category": "Politics, Military, Government",
+          "description": "Julius Caesar's great-nephew Augustus basically said 'Republic? More like Republi-can't!' and turned Rome into an empire. It's like when the class president declares themselves principal for life! Augustus became the first Roman Emperor, though he cleverly called himself 'First Citizen' instead of 'Supreme Ruler' or 'King of Everything' - talk about smart branding! And thus began about 500 years of emperors trying to outdo each other."
+      }
+  },
+  {
+      "id": "28",
+      "title": "Birth of Jesus Christ",
+      "img1": "https://media.bible.art/804134a4-7e8c-449f-8b70-c4532c09f695-compressed.jpg",
+      "img2": "https://i.etsystatic.com/39602425/r/il/102415/5037507558/il_570xN.5037507558_1icu.jpg",
+      "data": {
+          "country": "Israel",
+          "century": "1st century",
+          "category": "Religion, Culture, History",
+          "description": "Talk about an influential birthday! This event was so important that we literally started counting years over again! It's like when your little sibling is born and suddenly everything is about them - except this actually changed how billions of people would measure time forever. Fun fact: we technically got the year wrong, so Jesus was probably born between 6-4 BC, which means he was born 'before himself' - try explaining that one to your friends!"
+      }
+  },
+  {
+      "id": "29",
+      "title": "Colosseum Opens in Rome",
+      "img1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/800px-Colosseo_2020.jpg",
+      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSftYWxjmw-f6ezlifDEkf6I0zG4U6cX7y9Dg&s",
+      "data": {
+          "country": "Italy",
+          "century": "1st century",
+          "category": "Architecture, Entertainment, Culture",
+          "description": "The Romans built the world's first mega-stadium, and boy did they go big! The Colosseum was like their version of a movie theater, sports arena, and theater all rolled into one - except way more dramatic! It could hold 50,000 spectators, had a retractable roof (sort of), and even did 'naval battles' by flooding the arena. That's right, they turned their stadium into a pool! And you thought your school gymnasium was impressive!"
+      }
+  },
+  {
+      "id": "30",
+      "title": "China Invents Earthquake Detector",
+      "img1": "https://www.ancient-origins.net/sites/default/files/styles/article_image/public/field/image/seismometer.jpg?itok=3trLT3Tr",
+      "img2": "https://i.ytimg.com/vi/zEZevXq2iT4/maxresdefault.jpg",
+      "data": {
+          "country": "China",
+          "century": "2nd century",
+          "category": "Science, Technology, Innovation",
+          "description": "In 132 AD, a clever Chinese scientist named Zhang Heng invented a bronze vessel that could detect earthquakes from hundreds of miles away! It looked like a wine jar surrounded by dragons, and when an earthquake happened somewhere, a bronze ball would drop from a dragon's mouth. It's like having a fancy earthquake alarm system, except it was powered by ancient physics instead of batteries. Who needs a weather app when you have dragon-powered science?"
+      }
     },
     {
-      "id": "acc6",
-      "title": "NEW EVENT TEST",
-      "img1": "https://www.chaz.org/Arch/China/Mandate/Jade_Emperor.png",
-      "img2": "",
-      "century": "12th century BC",
-      "country": "China",
-      "description": "The Zhou Dynasty came up with the cleverest political excuse ever - they said Heaven itself chose them to rule! It's like telling your siblings 'Mom said I'm in charge' except they convinced an entire civilization! The Mandate of Heaven became the ultimate 'because I said so' of ancient China, stating that good rulers kept heaven's approval while bad ones lost it. Very convenient when you think about it!"
-    },
-    {
-      "id": "66d8",
-      "title": "NEW EVENT TEST",
-      "img1": "https://www.chaz.org/Arch/China/Mandate/Jade_Emperor.png",
-      "img2": "",
-      "century": "12th century BC",
-      "country": "China",
-      "description": "The Zhou Dynasty came up with the cleverest political excuse ever - they said Heaven itself chose them to rule! It's like telling your siblings 'Mom said I'm in charge' except they convinced an entire civilization! The Mandate of Heaven became the ultimate 'because I said so' of ancient China, stating that good rulers kept heaven's approval while bad ones lost it. Very convenient when you think about it!"
-    },
-    {
-      "id": "6100",
-      "title": "NEW EVENT TEST",
-      "img1": "https://www.chaz.org/Arch/China/Mandate/Jade_Emperor.png",
-      "img2": "",
-      "century": "12th century BC",
-      "country": "China",
-      "description": "The Zhou Dynasty came up with the cleverest political excuse ever - they said Heaven itself chose them to rule! It's like telling your siblings 'Mom said I'm in charge' except they convinced an entire civilization! The Mandate of Heaven became the ultimate 'because I said so' of ancient China, stating that good rulers kept heaven's approval while bad ones lost it. Very convenient when you think about it!"
-    },
-    {
-      "id": "d057",
-      "title": "SECOND TEST",
-      "img1": "https://www.worldhistory.org/uploads/images/15310.png",
-      "img2": "",
-      "century": "14th century BC",
-      "country": "China",
-      "description": "It happened totally"
-    },
-    {
-      "id": "ba02",
-      "title": "SECOND TEST",
-      "img1": "https://www.worldhistory.org/uploads/images/15310.png",
-      "img2": "",
-      "century": "14th century BC",
-      "country": "China",
-      "description": "It happened totally"
-    },
-    {
-      "id": "5e31",
-      "title": "THIRD TEST",
-      "img1": "https://theness.com/neurologicablog/wp-content/uploads/sites/3/2022/11/Atlantis.jpg",
-      "img2": "",
-      "century": "3rd AD",
-      "country": "Atlantis",
-      "description": "Fantastic place"
-    },
-    {
-      "id": "3d55",
-      "title": "FIFTH TEST",
-      "img1": "https://theness.com/neurologicablog/wp-content/uploads/sites/3/2022/11/Atlantis.jpg",
-      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKyD-NfwGhWm4TuJhxIGcAtOPdlVgI3Mdgrg&s",
-      "century": "12th CD",
-      "country": "Atlantis",
-      "description": "Somewhere over the rainbow"
-    },
-    {
-      "id": "553d",
-      "title": "MIAMI PARTY",
-      "img1": "https://www.miamiandbeaches.com/getmedia/f35e8173-0df2-4bed-86dc-727805570021/Miami-Aerial-Photos-Golden-Dusk-Photography-1440x900.jpg",
-      "img2": "",
-      "century": "20th century AD",
-      "country": "USA",
-      "description": "GETTin Jiggy you kno you inow"
-    },
-    {
-      "id": "e946",
-      "title": "miami party again",
-      "img1": "https://www.miamiandbeaches.com/getmedia/f35e8173-0df2-4bed-86dc-727805570021/Miami-Aerial-Photos-Golden-Dusk-Photography-1440x900.jpg",
-      "img2": "",
-      "century": "20th century AD",
-      "country": "usa",
-      "description": "yeyeyeyeyeyye"
+      "id": "31",
+      "title": "Hagia Sophia Construction",
+      "img1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1200px-Hagia_Sophia_Mars_2013.jpg",
+      "img2": "https://toursandtickets.com.tr/uploads/products/20/hagia-sophia-skip-the-line-ticket-20-2.jpg",
+      "data": {
+          "country": "Turkey (Byzantine Empire)",
+          "century": "6th century",
+          "category": "Architecture",
+          "description": "Emperor Justinian's ambitious architectural marvel, the Hagia Sophia, represented the pinnacle of Byzantine engineering and artistic achievement. Completed in 537 AD, its massive 102-foot diameter dome appeared to float above the nave thanks to an innovative system of pendentives - curved triangular sections of masonry that solved the ancient architectural puzzle of setting a circular dome atop a square base. The building employed over 10,000 workers, used materials from across the empire including rare purple marble from Phrygia and green marble from Thessaly, and incorporated ingenious acoustic engineering that allowed voices to carry throughout the massive space. The structure was so revolutionary that when an earthquake damaged the original dome twenty years after construction, the rebuilt version was made 6 feet higher to improve stability - a fix that has helped it survive dozens more earthquakes over 1,500 years."
+      }
+  },
+  {
+      "id": "32",
+      "title": "First Printed Book - The Diamond Sutra",
+      "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqrO-3JyXvonbUftoD5rbWUZmG5E9TGdF3Q&s",
+      "img2": "https://www.bmimages.com/pix/AS/016/01613072079_P.JPG",
+      "data": {
+          "country": "China",
+          "century": "9th century",
+          "category": "Technology",
+          "description": "The Diamond Sutra, printed in 868 AD, revolutionized the spread of knowledge as the world's earliest known dated printed book. Created using woodblock printing, the scroll stretched 16 feet long and featured both text and images in unprecedented detail. The printing process involved carving characters in reverse on wooden blocks, applying ink, and pressing paper against them - a technique that allowed for multiple copies to be produced from a single block. This innovation came nearly 600 years before Gutenberg's printing press and demonstrated China's technological advancement during the Tang Dynasty. The printer, Wang Jie, dedicated it to his parents for 'universal free distribution,' making it possibly the world's first example of charitable publishing. The original copy survived thanks to being sealed in a cave in Dunhuang, China, where it remained hidden for nearly 1,000 years until its discovery in 1907."
+      }
+  },
+  {
+      "id": "33",
+      "title": "Battle of Hastings",
+      "img1": "https://cdn.britannica.com/53/152953-004-35687DB6/Harold-II-Illustration-death-Battle-of-Hastings.jpg",
+      "img2": "https://www.english-heritage.org.uk/siteassets/home/visit/places-to-visit/1066-battle-abbey/history-and-stories/hub-items/battle-hastings-painting.jpg?w=550&h=350&mode=crop&scale=both&cache=always&quality=60&anchor=&WebsiteVersion=20200219",
+      "data": {
+          "country": "England",
+          "century": "11th century",
+          "category": "Military",
+          "description": "The Battle of Hastings in 1066 fundamentally transformed English society and language. When William of Normandy defeated King Harold Godwinson, it marked the last successful foreign invasion of England and introduced sweeping changes to English culture. The battle itself was a masterclass in medieval warfare, lasting from dawn until dusk. Harold's forces held the high ground on Senlac Hill, forming an effective shield wall that withstood repeated Norman cavalry charges. The tide turned when William used the feigned retreat tactic - his cavalry pretended to flee, drawing out the English who broke formation to pursue, allowing the Normans to turn and destroy them piecemeal. The Norman victory led to the introduction of feudalism, castle-building technology, and Norman French, which contributed roughly 10,000 new words to the English language. The battle is famously documented in the Bayeux Tapestry, a 230-foot-long embroidered chronicle that provides invaluable insights into 11th-century warfare, clothing, and architecture."
+      }
+  },
+  {
+      "id": "34",
+      "title": "First University Founded - University of Bologna",
+      "img1": "https://brewminate.com/wp-content/uploads/2021/04/042321-05-History-Education.jpg",
+      "img2": "https://uceap.universityofcalifornia.edu/sites/default/files/marketing-images/program-page-images/university-of-bologna-glance.jpg",
+      "data": {
+          "country": "Italy",
+          "century": "11th century",
+          "category": "Culture",
+          "description": "The University of Bologna, founded in 1088, established the model for higher education that continues to influence academic institutions today. As the first university to function as a corporation of students rather than being attached to a cathedral or royal court, it pioneered many aspects of academic freedom and governance. The university began as a law school, attracting students from across Europe who hired and paid their professors directly - an unusual arrangement that gave students significant power over their education. The university developed the doctoral degree and the modern academic dissertation system. Its curriculum was divided into distinctive 'nations' based on students' geographical origins, a system later adopted by other medieval universities. The institution also established the practice of academic tenure to protect professors' intellectual freedom, and created the role of 'rector' - a student-elected head of the university, demonstrating remarkably democratic principles for its time. By 1200, the university had over 10,000 students, making it the largest center of learning in medieval Europe."
+      }
+  },
+  {
+      "id": "35",
+      "title": "Development of Double-Entry Bookkeeping",
+      "img1": "https://images.squarespace-cdn.com/content/v1/5aa6128850a54f0331abec9a/1556335508920-0592ULRZUYQ6D2N332WZ/DE-bookkeeping.jpg?format=750w",
+      "img2": "https://res.cloudinary.com/cinello/image/upload/q_auto,f_auto/l_text:Arial_16_bold:Copyright%20DAW,g_south_east,x_20,y_20,co_white/shveqjdgzufuaaixygzd.jpg",
+      "data": {
+          "country": "Italy",
+          "century": "14th century",
+          "category": "Economics",
+          "description": "Double-entry bookkeeping, first systematically described by Italian mathematician Luca Pacioli in 1494, emerged from the bustling trade centers of medieval Italy to revolutionize commerce. The system, which records each transaction twice - as both a debit and a credit - was first implemented by Florentine merchants in the 14th century. This innovation allowed for unprecedented accuracy in financial records and error detection, as the two sides of each entry had to balance. The system introduced standard accounting concepts still used today, including journals, ledgers, and trial balances. The method's adoption coincided with the rise of modern banking in Renaissance Italy, particularly in Florence and Venice, where complex financial instruments like bills of exchange and marine insurance required precise record-keeping. The standardization of bookkeeping practices enabled the growth of large-scale commercial enterprises and banking networks that spanned Europe, fundamentally changing the nature of business and contributing to the rise of modern capitalism."
+      }
+  },
+  {
+    "id": "36",
+    "title": "The Black Death Pandemic",
+    "img1": "https://www.thoughtco.com/thmb/yDFnuN6MttjkzGZM7rg1FZ5QmBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sabatelli-BD-detail-566dab843df78ce161925d28.jpg",
+    "img2": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Paul_F%C3%BCrst%2C_Der_Doctor_Schnabel_von_Rom_%28coloured_version%29.png",
+    "data": {
+        "country": "Europe",
+        "century": "14th century",
+        "category": "Science",
+        "description": "The Black Death (1347-1351) represents history's most devastating pandemic, killing an estimated 30-60% of Europe's population and fundamentally altering medieval society. The disease, caused by the bacterium Yersinia pestis, likely originated in Central Asia and traveled along trade routes via infected rodents and fleas. The pandemic manifested in three forms: bubonic (characterized by swollen lymph nodes), pneumonic (affecting the lungs), and septicemic (infecting the blood). Mortality rates in affected areas often exceeded 75%, with some communities entirely wiped out. The pandemic spurred significant medical and social innovations: quarantine measures were first implemented in Venice in 1348, hospitals developed new sanitation practices, and doctors began keeping detailed medical records. The massive population decline led to increased wages for surviving workers, weakened feudal structures, and sparked agricultural innovations to compensate for labor shortages. The pandemic also influenced the development of public health systems, with many cities establishing permanent medical offices and implementing systematic disease prevention measures."
     }
+},
+{
+    "id": "37",
+    "title": "Gutenberg Invents Movable Type Printing",
+    "img1": "https://hicoop.b-cdn.net/wp-content/uploads/2023/09/Who-Invented-the-Printing-Press.jpg",
+    "img2": "https://nic.pressbooks.pub/app/uploads/sites/20/2023/04/Gr.diana_Johannes_Gutenberg.png",
+    "data": {
+        "country": "Germany",
+        "century": "15th century",
+        "category": "Technology",
+        "description": "Johannes Gutenberg's introduction of mechanical movable type printing around 1440 catalyzed an information revolution that transformed human society. His innovation combined three crucial elements: movable metal type pieces, oil-based ink, and a wooden printing press modified from wine presses. The metal type pieces were cast using a specialized matrix and lead-based alloy that could withstand repeated pressure. Each piece was reusable and could be precisely aligned, allowing for consistent, high-quality printing. Gutenberg's first major project, the 42-line Bible, required 50,000 pieces of type and took six years to complete. The press could produce 3,600 pages per workday, compared to the 40 pages a medieval scribe could copy. By 1500, over 20 million volumes had been printed in Europe, more than all the hand-copied books produced in the previous millennium. The technology's spread led to standardized spelling, punctuation, and grammar, while dramatically reducing book prices - a single volume that previously cost a year's wages could now be purchased for a week's pay. The printing press played a crucial role in the Renaissance, Reformation, and Scientific Revolution by enabling rapid dissemination of new ideas."
+    }
+},
+{
+    "id": "38",
+    "title": "Fall of Constantinople",
+    "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEkzU4645rraQrasU4EyTg_5FNS4ognAj0jg&s",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpnrkQxm8aP8knyEMIBjHGBsLgmm6YaQ3oCg&s",
+    "data": {
+        "country": "Turkey (Byzantine Empire, Dissolved 1453)",
+        "century": "15th century",
+        "category": "Military",
+        "description": "The fall of Constantinople in 1453 marked the end of the Byzantine Empire and revolutionized warfare through the first large-scale use of gunpowder artillery. Sultan Mehmed II's 80,000-strong Ottoman army besieged the city's legendary walls with 70 cannons, including the massive Basilica cannon that could fire 600-pound stone balls over a mile. The 7,000 Byzantine defenders, led by Emperor Constantine XI, relied on the city's sophisticated triple-wall defense system that had repelled attackers for over 1,000 years. The siege lasted 53 days, featuring innovative tactics like the overland transportation of 70 ships on greased logs to outflank the Byzantine chain blocking the Golden Horn harbor. The final assault on May 29 succeeded when the Ottomans breached the walls near the Blachernae section, using gunpowder mines and concentrated artillery fire. The city's fall sent shockwaves through Europe, spurring Western powers to develop their own artillery technology. The event is considered a turning point in military history, marking the definitive end of medieval siege warfare and the rise of gunpowder empires."
+    }
+},
+{
+    "id": "39",
+    "title": "Copernicus Proposes Heliocentric Model",
+    "img1": "https://scx1.b-cdn.net/csz/news/800a/2016/2-whatisthehel.jpg",
+    "img2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/800px-Nikolaus_Kopernikus_MOT.jpg",
+    "data": {
+        "country": "Poland",
+        "century": "16th century",
+        "category": "Science",
+        "description": "Nicolaus Copernicus's publication of 'De revolutionibus orbium coelestium' in 1543 triggered a scientific revolution by proposing a heliocentric model of the universe. His mathematical model placed the Sun at the center of the cosmos, with Earth and other planets orbiting in perfect circles, contradicting the geocentric view that had dominated astronomy for over 1,000 years. Copernicus's calculations were based on decades of careful astronomical observations and complex mathematical computations, performed without telescopes or modern instruments. The model explained previously puzzling phenomena like retrograde planetary motion and the varying brightness of planets throughout the year. His work introduced the concepts of stellar parallax and Earth's triple motion (daily rotation, annual revolution, and axial precession). Though initially published with a disclaimer suggesting it was merely a mathematical model rather than physical reality, Copernicus's theory laid the groundwork for future astronomers like Galileo and Kepler, who would provide observational evidence supporting heliocentrism. The book remained on the Catholic Church's Index of Forbidden Books until 1835, illustrating the long-lasting impact of this scientific breakthrough on religious and philosophical thought."
+    }
+},
+{
+    "id": "40",
+    "title": "Spanish Armada Defeated",
+    "img1": "https://cdn.britannica.com/58/244258-050-20B614E1/defeat-of-Spanish-Armada.jpg?w=400&h=225&c=crop",
+    "img2": "https://media.sciencephoto.com/c0/44/64/36/c0446436-800px-wm.jpg",
+    "data": {
+        "country": "England",
+        "century": "16th century",
+        "category": "Military",
+        "description": "The defeat of the Spanish Armada in 1588 marked a pivotal shift in naval warfare and established England as a dominant maritime power. The Spanish fleet, consisting of 130 ships carrying 2,500 guns and 30,000 men, represented the largest naval force ever assembled at that time. The English response, led by Sir Francis Drake and Lord Howard, demonstrated revolutionary naval tactics. Instead of traditional close-quarter combat, the English used their faster, more maneuverable galleons to attack from long range with heavy cannon fire. The battle introduced the concept of the broadside attack, where ships would sail parallel to enemies and fire entire banks of guns simultaneously. Weather played a crucial role, with storms forcing many Spanish ships onto the treacherous coasts of Scotland and Ireland - only 67 ships returned to Spain. The English victory was achieved with surprisingly few direct confrontations, losing no ships and only 100 men compared to Spain's loss of 11,000 men and 44 ships. This event marked the beginning of England's naval supremacy, which would last for over three centuries, and contributed to the decline of the Spanish Empire."
+    }
+},
+      {
+          "id": "41",
+          "title": "Newton Publishes Laws of Motion",
+          "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx9mjmipxqb_mgs4i4huSybUGaIo3-mKZubQ&s",
+          "img2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/1200px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+          "data": {
+              "country": "England",
+              "century": "17th century",
+              "category": "Science",
+              "description": "Isaac Newton's publication of 'Principia Mathematica' in 1687 established the fundamental principles of classical mechanics that would govern scientific thought for the next three centuries. The work introduced three laws of motion and universal gravitation, explaining everything from planetary orbits to falling apples with the same mathematical framework. Newton developed calculus specifically to solve the mathematical problems posed by his theories, though this advancement wasn't published until later. The Principia proved that the same physical laws govern both celestial and terrestrial phenomena - a revolutionary concept that unified our understanding of the universe. His inverse square law of gravitation accurately predicted orbital patterns, tides, and the shapes of planets. The work also introduced the concepts of mass, inertia, and force as precisely defined scientific quantities, establishing the mathematical foundation for the Industrial Revolution. Newton's descriptions of action-reaction pairs and conservation of momentum would later prove crucial for developments in rocketry and space exploration."
+          }
+      },
+      {
+          "id": "42",
+          "title": "Industrial Revolution Begins",
+          "img1": "https://assets.editorial.aetnd.com/uploads/2021/11/pollution-industrial-revolution-gettyimages-587493886.jpg?width=2048&height=1152&crop=2048%3A1152%2Csmart&quality=75&auto=webp",
+          "img2": "https://www.worldhistory.org/image/17133/power-looms-in-a-textile-mill/download/",
+          "data": {
+              "country": "England",
+              "century": "18th century",
+              "category": "Technology",
+              "description": "The Industrial Revolution, beginning around 1760, represented humanity's most transformative technological leap since the development of agriculture. The introduction of James Watt's improved steam engine in 1769, capable of delivering 25 horsepower compared to its predecessor's 5 horsepower, catalyzed this transformation. Power looms increased textile production by 40 times while reducing required labor by 98%. By 1800, cotton mills in Manchester could spin 10,000 times more thread per hour than a skilled hand spinner. The revolution introduced standardized parts and assembly lines - Richard Arkwright's mill system could process 2,400 pounds of cotton weekly with just 200 workers. The period saw average incomes in industrialized nations increase by 500% within a century, after remaining relatively stagnant for the previous 2,000 years. Urban populations exploded; Manchester grew from 25,000 to 367,000 residents between 1772 and 1850. The revolution also brought unprecedented environmental changes, with coal consumption in Britain increasing from 3 million tons in 1700 to 100 million tons by 1850, marking the beginning of human-induced climate change."
+          }
+      },
+      {
+          "id": "43",
+          "title": "Discovery of Electricity's Principles",
+          "img1": "https://assets.isu.pub/document-structure/201012184439-8d90746f3b470c1a29bb876d6d274e61/v1/a1bdd5f1176c1f2c1ebe48e737de1b75.jpg?width=720&quality=85%2C50",
+          "img2": "https://static01.nyt.com/images/2017/06/13/business/13GE-HISTORY1/13GE-HISTORY1-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+          "data": {
+              "country": "United States",
+              "century": "19th century",
+              "category": "Science",
+              "description": "The 19th century's understanding of electricity fundamentally reshaped human civilization. Michael Faraday's discovery of electromagnetic induction in 1831 established that a changing magnetic field could generate electric current. His invention of the electric generator produced sustained electrical power for the first time in history. By 1879, Thomas Edison's carbon filament light bulb could burn for 14.5 hours, with improved versions reaching 1,200 hours by 1880. Edison's Pearl Street Station, opening in 1882, became the world's first commercial power plant, initially serving 85 customers with 400 lamps each. The development of AC power by Tesla and Westinghouse enabled long-distance power transmission, with the first AC power line in 1886 transmitting power 30 kilometers. The standardization of electrical systems led to an explosion of innovations - by 1900, there were over 15 million light bulbs in use in the United States alone. Electric motors, introduced to factories in the 1890s, increased industrial productivity by 25% and eliminated the need for complex systems of belts and pulleys powered by steam engines."
+          }
+      },
+      {
+          "id": "44",
+          "title": "Wright Brothers' First Powered Flight",
+          "img1": "https://cdn.prod.website-files.com/65c26eeea7cdaa706d97a75c/662fc0445f647da4370ab89f_1280px-1902_Wright_Brothers_Glider_Tests_-_GPN-2002-000125-1024x714.jpeg",
+          "img2": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/dayton/wright_brothers_5d1a0c6a-b761-455c-b6d4-13bb1b013993.png",
+          "data": {
+              "country": "United States",
+              "century": "20th century",
+              "category": "Technology",
+              "description": "The Wright brothers' successful powered flight on December 17, 1903, launched the age of aviation. Their aircraft, the Wright Flyer, achieved four flights that day, with the longest lasting 59 seconds and covering 852 feet. The breakthrough came from their systematic approach to solving flight's fundamental problems: lift, power, and control. Their wind tunnel tested over 200 wing shapes, producing crucial aerodynamic data. The brothers developed the first effective three-axis control system, enabling pilots to maintain stability - a principle still used in modern aircraft. Their custom-built 12-horsepower engine weighed only 170 pounds and achieved 90% power efficiency. Within five years of their first flight, they achieved flights lasting over two hours and distances of 77 miles. The technology advanced rapidly; by 1914, the first commercial airline was established, and aircraft speeds increased from the Wright Flyer's 31 mph to over 140 mph. World War I accelerated aviation development - between 1914 and 1918, aircraft performance improved tenfold in terms of speed, altitude, and range."
+          }
+      },
+      {
+          "id": "45",
+          "title": "Einstein's Theory of Relativity",
+          "img1": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2015/12/64c16b1eab2af65cd559d190f64de019-1586331_quer-jpg-data.jpg?ver=1d36d398",
+          "img2": "https://www.princeton.edu/sites/default/files/styles/1x_full_2x_half_crop/public/images/2022/03/Albert_Einstein_Head_H3000x1688.jpg?itok=QUAc_yMr",
+          "data": {
+              "country": "Germany",
+              "century": "20th century",
+              "category": "Science",
+              "description": "Einstein's publication of Special Relativity in 1905 and General Relativity in 1915 revolutionized our understanding of space, time, and gravity. Special Relativity introduced the concept that the speed of light is constant for all observers and established the famous equation E=mc², showing that mass and energy are equivalent. The theory predicted that time dilation occurs at high speeds - now confirmed by atomic clocks on satellites, which must be adjusted to account for relativistic effects. General Relativity described gravity as a curvature of spacetime caused by mass and energy, accurately predicting Mercury's orbital precession and the bending of light by gravity, confirmed during a 1919 solar eclipse. The theories' practical applications include GPS systems (which must account for both special and general relativistic effects to maintain accuracy), nuclear power (based on mass-energy equivalence), and modern particle accelerators. Einstein's work also predicted phenomena like black holes, gravitational waves (first directly detected in 2015, 100 years after their prediction), and the possibility of time travel under certain conditions."
+          }
+      },
+      {
+          "id": "46",
+          "title": "Development of Nuclear Weapons",
+          "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNbB_RR5PazzUkf_uazXgCo4hcI3pwHwA0w&s",
+          "img2": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature.2015.16739/MediaObjects/41586_2015_Article_BFnature201516739_Figb_HTML.jpg",
+          "data": {
+              "country": "United States",
+              "century": "20th century",
+              "category": "Military",
+              "description": "The Manhattan Project (1942-1946) marked the beginning of the atomic age, fundamentally changing global politics and warfare. The project employed over 130,000 people and cost $2 billion ($29 billion in today's currency), making it comparable in size to the entire U.S. automobile industry at that time. The first nuclear test, Trinity, on July 16, 1945, released energy equivalent to 21,000 tons of TNT and was visible from 200 miles away. The two weapons used in warfare, at Hiroshima and Nagasaki, had yields of 15 and 21 kilotons respectively, resulting in approximately 200,000 immediate casualties. The subsequent nuclear arms race led to rapid technological advancement - by 1960, thermonuclear weapons achieved yields of 50 megatons, over 3,000 times more powerful than the Hiroshima bomb. The development of nuclear weapons transformed international relations, leading to the doctrine of Mutually Assured Destruction. By 1986, global nuclear arsenals peaked at approximately 70,000 warheads, though arms reduction treaties have since reduced this number to about 13,000."
+          }
+      },
+      {
+          "id": "47",
+          "title": "First Moon Landing",
+          "img1": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/WEOUJEVIBAI6TJXM533A5VPVDQ.jpg?auth=7a1df5ddbc2e90726f52fa236f3cbfeefd191f44dbb68f74ed49d7639c831f28&width=1440",
+          "img2": "https://cdnph.upi.com/ph/st/th/8841721491067/2024/upi/e5ac6d8878c30c1f3d2ea186627f82dd/v2.1/Events-commemorate-55th-anniversary-of-moon-landing.jpg?lg=4",
+          "data": {
+              "country": "United States",
+              "century": "20th century",
+              "category": "Technology",
+              "description": "The Apollo 11 mission in July 1969 represented humanity's first steps on another world. The culmination of a program employing 400,000 people and costing $25.4 billion ($280 billion adjusted for inflation), the mission utilized the Saturn V rocket, still the most powerful ever built, generating 7.6 million pounds of thrust at liftoff. The Lunar Module Eagle landed with just 25 seconds of fuel remaining. Armstrong and Aldrin spent 21 hours, 36 minutes on the lunar surface, collecting 47.5 pounds of samples and deploying scientific instruments including a seismometer and laser reflector still used today. The mission's success required innovative solutions to unprecedented challenges: the development of the first portable life support systems, computers capable of real-time guidance calculations, and new materials to withstand extreme temperature variations from -250°F to +250°F. The mission's television broadcast reached an estimated 600 million viewers worldwide, approximately 20% of Earth's population at the time. The Apollo program's technological legacy includes advances in integrated circuits, fuel cells, materials science, and medical monitoring systems."
+          }
+      },
+      {
+          "id": "48",
+          "title": "Birth of the Internet",
+          "img1": "https://archive.sltrib.com/images/2009/1225/wkd_birthofinternet_1220~8.jpg",
+          "img2": "https://mediadaily.biz/wp-content/uploads/2018/10/Ken_Thompson_sitting_and_Dennis_Ritchie_at_PDP-11_2876612463.jpg",
+          "data": {
+              "country": "United States",
+              "century": "20th century",
+              "category": "Technology",
+              "description": "The development of the Internet, from ARPANET in 1969 to the World Wide Web in 1991, fundamentally transformed human communication and commerce. ARPANET initially connected just four computers at different universities, using packet-switching technology that could maintain communications even if parts of the network were destroyed. The adoption of TCP/IP protocols in 1983 enabled different computer networks to interconnect, creating the 'network of networks' that became the Internet. By 1991, when Tim Berners-Lee introduced the World Wide Web, the Internet connected 600,000 hosts. The Web's growth was explosive - from 130 websites in 1993 to over 100,000 by 1996. The introduction of encrypted commerce in 1994 enabled online business transactions, leading to the first major e-commerce companies. Email usage grew from 15 million users in 1995 to over 400 million by 2000. The introduction of broadband in the late 1990s increased average connection speeds from 56 kilobits to several megabits per second. By 2023, over 5 billion people use the Internet, generating approximately 2.5 quintillion bytes of data daily."
+          }
+      },
+      {
+          "id": "49",
+          "title": "Human Genome Project Completed",
+          "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAEtCuzBO-qJBWJni04c-m6g55YvQcul_Bgg&s",
+          "img2": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2Fdf420a32-9320-11e7-83ab-f4624cccbabe?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+          "data": {
+              "country": "United States",
+              "century": "21st century",
+              "category": "Science",
+              "description": "The completion of the Human Genome Project in 2003 marked a milestone in biological science, providing the first complete map of human DNA. The 13-year project, costing $3 billion, sequenced all 3 billion base pairs in human DNA and identified approximately 20,000-25,000 genes. The project developed new sequencing technologies that reduced the cost of genome sequencing from $100 million in 2001 to under $1,000 by 2020. The effort required the development of new computational tools to process vast amounts of data - the genome sequence alone would fill 200 phone books. The project's findings revolutionized our understanding of human biology, revealing that humans share 98.8% of their DNA with chimpanzees and that genetic differences between any two humans are typically just 0.1%. The research has enabled the identification of over 1,800 disease-causing genes, led to the development of over 2,000 genetic tests for various conditions, and spawned numerous medical advances including targeted cancer treatments and personalized medicine approaches."
+          }
+      }
   ]
 }
