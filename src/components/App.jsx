@@ -7,7 +7,7 @@ function App() {
     <>
     <header className='header'>
     <Home/>
-    <img src='https://i.imgur.com/Z3xEo4y.jpeg'/>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/World_Map_1689.JPG/450px-World_Map_1689.JPG'/>
 
     </header>
         <div className='button-container'>

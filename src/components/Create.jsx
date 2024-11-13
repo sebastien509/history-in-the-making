@@ -15,6 +15,7 @@ function Create() {
   const [century, setCentury] = useState('')
   const [country, setCountry] = useState('')
   const [description, setDescription] = useState('')
+  const [category, setCategory] = useState('')
 
   const handleChangeTitle = (event) => setTitle(event.target.value)
   const handleChangeImage1 = (event) => setImg1(event.target.value)
@@ -22,6 +23,7 @@ function Create() {
   const handleChangeCentury = (event) => setCentury(event.target.value)
   const handleChangeCountry = (event) => setCountry(event.target.value)
   const handleChangeDescription = (event) => setDescription(event.target.value)
+  const handleChangeCategory = (event) => setCategory(event.target.value)
 
   function resetForm() {
     setTitle('')
@@ -30,6 +32,7 @@ function Create() {
     setCentury('')
     setCountry('')
     setDescription('')
+    setCategory('')
   }
 
 
@@ -37,7 +40,7 @@ function Create() {
   async function handleSubmit(event) {
     event.preventDefault()
 
-    const newEvent = {title, img1, img2, century, country, description}
+    const newEvent = {title, img1, img2, century, country, category, description}
 
     try {
       const response = await fetch('http://localhost:3000/events', {
@@ -91,6 +94,16 @@ function Create() {
           name="img2"
           value={img2}
           onChange={handleChangeImage2}
+        />
+
+        <label htmlFor="category">Category</label>
+         <input
+          type="text"
+          required={false}
+          name="category"
+          value={category}
+          onChange={handleChangeCategory
+          }
         />
 
         <label htmlFor="century">Century</label>
