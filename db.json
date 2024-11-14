@@ -63,7 +63,7 @@
     {
       "id": "6",
       "title": "Invention of the Chariot",
-      "img1": "https://static.wikia.nocookie.net/world-history-median/images/1/19/The_Wheel.jpg/revision/latest?cb=20211230183944",
+      "img1": "https://www.worldhistory.org/uploads/images/8424.jpg?v=1599508468-0",
       "img2": "https://citizendium.org/wiki/images/1/16/Egyptian-Chariot.png",
       "data": {
         "country": "Mesopotamia (Dissolved, 539 BC)",
@@ -123,6 +123,8 @@
     {
       "id": "11",
       "title": "Olmec Civilization Emerges",
+      "img1": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Olmec_Heartland_Overview_4.svg",
+      "img2": "https://www.thoughtco.com/thmb/gL0O2SQR-jBujgxsvZcoqbZ52_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Olmec_1-58d925da3df78c5162d1ba64.jpg",
       "img1": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Olmec_Heartland_Overview_4.svg",
       "img2": "https://www.thoughtco.com/thmb/gL0O2SQR-jBujgxsvZcoqbZ52_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Olmec_1-58d925da3df78c5162d1ba64.jpg",
       "data": {
@@ -221,6 +223,8 @@
       "title": "First Olympic Games",
       "img1": "https://assets.editorial.aetnd.com/uploads/2012/08/firstolympicsmyths.jpg",
       "img2": "https://cdn.sanity.io/images/cctd4ker/production/37b44179d8be39aba65b60ed764becf6dfc7bf50-1080x1080.jpg?w=3840&q=75&fit=clip&auto=format",
+      "img1": "https://assets.editorial.aetnd.com/uploads/2012/08/firstolympicsmyths.jpg",
+      "img2": "https://cdn.sanity.io/images/cctd4ker/production/37b44179d8be39aba65b60ed764becf6dfc7bf50-1080x1080.jpg?w=3840&q=75&fit=clip&auto=format",
       "data": {
         "country": "Greece",
         "century": "8th century BC",
@@ -231,6 +235,8 @@
     {
       "id": "20",
       "title": "First Coins Minted",
+      "img1": "https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/2020-04/mortonandeden-lot_4_1.jpg?itok=naXxc8FG",
+      "img2": "https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/2020-04/mortonandeden-lot_5_1.jpg?itok=WD9dfN84",
       "img1": "https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/2020-04/mortonandeden-lot_4_1.jpg?itok=naXxc8FG",
       "img2": "https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/2020-04/mortonandeden-lot_5_1.jpg?itok=WD9dfN84",
       "data": {
@@ -587,6 +593,114 @@
               "category": "Science",
               "description": "The completion of the Human Genome Project in 2003 marked a milestone in biological science, providing the first complete map of human DNA. The 13-year project, costing $3 billion, sequenced all 3 billion base pairs in human DNA and identified approximately 20,000-25,000 genes. The project developed new sequencing technologies that reduced the cost of genome sequencing from $100 million in 2001 to under $1,000 by 2020. The effort required the development of new computational tools to process vast amounts of data - the genome sequence alone would fill 200 phone books. The project's findings revolutionized our understanding of human biology, revealing that humans share 98.8% of their DNA with chimpanzees and that genetic differences between any two humans are typically just 0.1%. The research has enabled the identification of over 1,800 disease-causing genes, led to the development of over 2,000 genetic tests for various conditions, and spawned numerous medical advances including targeted cancer treatments and personalized medicine approaches."
           }
+      },
+      {
+        "id": "50",
+        "title": "First Written Laws Carved in Stone",
+        "img1": "https://upload.wikimedia.org/wikipedia/commons/9/98/F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg",
+        "img2": "https://assets.editorial.aetnd.com/uploads/2022/09/code-hammurabi-gettyimages-91425803.jpg",
+        "data": {
+          "country": "Mesopotamia (Dissolved, 539 BC)",
+          "century": "20th century BC",
+          "category": "Legal",
+          "description": "A monumental step in human society where King Ur-Nammu inscribed the Code of Ur-Nammu, one of the first known sets of laws, onto stone, creating a written legal standard for Mesopotamia."
+        }
+      },
+      {
+        "id": "51",
+        "title": "Haitian Independence",
+        "img1": "https://haitiwonderland.com/assets/images/upload/blog/haiti-haiti-et-le-prix-de-l-independance-1718715224.jpg",
+        "img2": "https://en.wikipedia.org/wiki/Haitian_Revolution#/media/File:Revolucion_Haitiana.png",
+        "data": {
+          "country": "Haiti",
+          "century": "19th century",
+          "category": "Independence",
+          "description": "After a prolonged struggle, Haiti became the first black republic and the first independent nation in Latin America and the Caribbean, marking a significant milestone in global history."
+        }
+      },
+      {
+        "id": "52",
+        "title": "Invention of the Printing Press",
+        "img1": "https://cdn.britannica.com/43/120643-004-926C49EB/Illustration-Encyclopaedia-Britannica-printing-press-edition-stick.jpg",
+        "img2": "https://smartergerman.com/wp-content/uploads/2024/04/aG5LklMhlopQIPwfZaWIlorTXmM7dB_S2NaBfuTIiXpfu8EB8pmiz19b0WphXJyHFqpjyOvbaRMB9Wfbx3sjBoddc5ztEKz-kEkPJAgaYXF2AhrRS7aIbKXjkLhQtspeSIBGMGh1ztC2IXDsnq2K7Vg.png",
+        "data": {
+          "country": "Holy Roman Empire",
+          "century": "15th century",
+          "category": "Science",
+          "description": "Johannes Gutenberg's printing press revolutionized information dissemination, sparking intellectual growth that would lead to the Renaissance and the Scientific Revolution."
+        }
+      },
+      {
+        "id": "53",
+        "title": "American Declaration of Independence",
+        "img1": "https://teachingamericanhistory.org/content/uploads/2021/09/3694394069_2d41fa536e_b-1.jpg",
+        "img2": "https://assets.editorial.aetnd.com/uploads/2009/10/by-john-trumbull-3.jpg?width=3840&height=1920&crop=3840%3A1920%2Csmart&quality=75&auto=webp",
+        "data": {
+          "country": "United States",
+          "century": "18th century",
+          "category": "Politics",
+          "description": "The 13 American colonies declared their independence from Britain, laying the foundation for a new democratic nation with a declaration inspired by Enlightenment ideals."
+        }
+      },
+      {
+        "id": "54",
+        "title": "Martin Luther's 95 Theses",
+        "img1": "https://bowienewsonline.com/wp-content/uploads/2016/10/95-Theses.jpg",
+        "img2": "https://www.londonlibrary.co.uk/images/CHARLOTTE/NEW_WEBSITE_IMAGES/luther_3.jpg",
+        "data": {
+          "country": "Germany",
+          "century": "16th century",
+          "category": "Religion",
+          "description": "Martin Luther's 95 Theses questioned the practices of the Catholic Church, sparking the Protestant Reformation and profoundly altering the religious landscape of Europe."
+        }
+      },
+      {
+        "id": "56",
+        "title": "Discovery of Penicillin",
+        "img1": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ec28/live/9343e4c0-7cc0-11ef-bffe-45a92ccd7d47.jpg",
+        "img2": "https://www.healio.com/~/media/slack-news/stock-images/fm_im/p/penicillin_adobe.webp?w=476",
+        "data": {
+          "country": "United Kingdom",
+          "century": "20th century",
+          "category": "Medicine",
+          "description": "Alexander Fleming's discovery of penicillin opened a new era in medical science, transforming treatment options and saving countless lives with the advent of antibiotics."
+        }
+      },
+      {
+        "id": "57",
+        "title": "The Fall of the Berlin Wall",
+        "img1": "https://gahmusa.org/wp-content/themes/yootheme/cache/dc/berliner-mauer-dc445aee.webp",
+        "img2": "https://media.cnn.com/api/v1/images/stellar/prod/191107180351-berlin-wall-falling.jpg?q=w_1110,c_fill/f_webp",
+        "data": {
+          "country": "Germany",
+          "century": "20th century",
+          "category": "Politics",
+          "description": "The fall of the Berlin Wall symbolized the end of the Cold War and the reunification of East and West Germany, marking a pivotal moment in the global shift towards democracy."
+        }
+      },
+      {
+        "id": "59",
+        "title": "Invention of the Telephone",
+        "img1": "https://i0.wp.com/heritagecalling.com/wp-content/uploads/2022/07/BLOG-replica-1876-centennial-telephone-creative-commons.jpg?ssl=1",
+        "img2": "https://learningenglishfree.co.uk/images/basicenglish2/images%203/the%20history%20of%20alexander%20bell%20and%20the%20telephone%20blog%20post.png",
+        "data": {
+          "country": "United States",
+          "century": "19th century",
+          "category": "Technology",
+          "description": "Alexander Graham Bell's invention of the telephone revolutionized communication, allowing people to connect across vast distances and setting the stage for modern telecommunications."
+        }
+      },
+      {
+        "id": "60",
+        "title": "Women’s Suffrage Movement",
+        "img1": "https://th-thumbnailer.cdn-si-edu.com/BXlBvfbX1SQaFPSuGy-lIVF8fxU=/1000x750/filters:no_upscale():focal(760x964:761x965)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/62/b4/62b4ed0c-2fd4-41fe-bfef-077106782979/gettyimages-515586416.jpg",
+        "img2": "https://www.archives.gov/files/education/images/womansuffragehowlong.jpg",
+        "data": {
+          "country": "United States, United Kingdom, and other countries",
+          "century": "20th century",
+          "category": "Rights",
+          "description": "The women’s suffrage movement fought for and achieved the right for women to vote, marking a significant milestone in the struggle for gender equality and civil rights worldwide."
+        }
       }
   ]
 }

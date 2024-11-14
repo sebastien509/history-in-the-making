@@ -7,8 +7,7 @@ function App() {
     <>
     <header className='header'>
     <Home/>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/World_Map_1689.JPG/450px-World_Map_1689.JPG'/>
-
+    <img src='https://imgur.com/8j2zHrg.jpeg'/>
     </header>
         <div className='button-container'>
             <Link to="/home/search">

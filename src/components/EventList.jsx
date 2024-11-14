@@ -56,7 +56,7 @@ function EventList() {
 
   return (
     <div className="filtered-events-page">
-      <h2>Filtered Events</h2>
+      <h2>Historical Events</h2>
       <div className="card-container">
         {events.map((event) => (
           <EventCard key={event.id} event={event} />
