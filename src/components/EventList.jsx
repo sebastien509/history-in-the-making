@@ -51,7 +51,12 @@ function EventList() {
   }
 
   if (events.length === 0){
-    return <p>No events found matching your criteria.</p>;
+    return (
+      <div className='filtered-events-page'>
+      <h2>No events found matching your criteria.</h2>;
+      <img src='https://texasbytexans.com/wp-content/uploads/2017/11/tbt_histerical_sign-3271.jpg' alt='error page' />
+      </div>
+    )
   }
 
   return (

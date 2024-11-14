@@ -187,6 +187,26 @@ button:active {
   background: #1f7f34;
 }
 
+.filtered-events-page{
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.filtered-events-page h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.filtered-events-page img {
+  display: flex;
+  padding-left: 350px;
+}
+
 /* Event Page */
 .event-page {
   max-width: 800px;
