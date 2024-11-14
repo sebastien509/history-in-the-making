@@ -202,7 +202,7 @@ button:active {
   font-size: 40px;
 }
 
-.filtered-events-page img {
+.filtered-events-page-img {
   display: flex;
   padding-left: 350px;
 }
